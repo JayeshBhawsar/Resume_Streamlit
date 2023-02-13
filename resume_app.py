@@ -67,7 +67,7 @@ with col_1:
     st.write('Synergy Institute of Technology, Dewas, MP')
     
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>2019 - 2022</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>2019 - 2022</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -78,7 +78,7 @@ with col_1:
             unsafe_allow_html=True)
     st.write('Ethans Tech. Kharadi - Pune, MH')
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>Dec 2020 - Jan 2020</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Dec 2020 - Jan 2020</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -89,7 +89,7 @@ with col_1:
             unsafe_allow_html=True)
     st.write('CodeBetter - Indore, MP')
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>Mar 2020 - Apr 2020</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Mar 2020 - Apr 2020</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -100,7 +100,7 @@ with col_1:
             unsafe_allow_html=True)
     st.write('Indo-German Tool Room - Aurangabad, MH (AICTE Delhi)')
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>2016 - 2017</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>2016 - 2017</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -111,7 +111,7 @@ with col_1:
             unsafe_allow_html=True)
     st.write('Indo-German Tool Room - Indore, MP (AICTE Delhi & RGTU, Bhopal)')
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>2010 - 2014</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>2010 - 2014</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -131,7 +131,7 @@ with col_1:
     st.write('Junior Software Engineer')
     
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>Oct 2021 - Present</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Oct 2021 - Present</h5>",
             unsafe_allow_html=True)
 
 
@@ -156,7 +156,7 @@ with col_1:
     st.write('Sr. Supervisor - Production')
     
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>Aug 2020 - Dec 2020</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Aug 2020 - Dec 2020</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -167,7 +167,7 @@ with col_1:
             unsafe_allow_html=True)
     st.write('Jr. Engineer - Production')
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>Oct 2017 - Aug 2020</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Oct 2017 - Aug 2020</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')
@@ -178,7 +178,7 @@ with col_1:
             unsafe_allow_html=True)
     st.write('Jr. Engineer - Quality Control')
 with col_2:
-    st.write("<h5 style='text-align: right; color: black;'>Jul 2014 - Sep 2016</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Jul 2014 - Sep 2016</h5>",
             unsafe_allow_html=True)
     st.write('')
     st.write('')

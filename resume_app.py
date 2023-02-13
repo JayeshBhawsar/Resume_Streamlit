@@ -25,7 +25,7 @@ st.write('')
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Address: </h4>",
             unsafe_allow_html=True)
-st.write("99, Shyam Nagar Annex A, Near MR10 Square, Sukhliya, INDORE, 452001")
+st.write("199, Shyam Nagar Annex A, Near MR10 Square, Sukhliya, INDORE, 452001")
 st.write('')
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Email: </h4>",
             unsafe_allow_html=True)

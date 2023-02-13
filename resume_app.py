@@ -62,57 +62,57 @@ st.write('')
 
 col_1, col_2 = st.columns(2)
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>B.Tech in Mechanical Engineering</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>B.Tech in Mechanical Engineering (2019 - 2022)</h5>",
             unsafe_allow_html=True)
     st.write('Synergy Institute of Technology, Dewas, MP')
     
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>2019 - 2022</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>2019 - 2022</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
 
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>Python Certification: </h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Python Certification (Dec 2020 - Jan 2020) </h5>",
             unsafe_allow_html=True)
     st.write('Ethans Tech. Kharadi - Pune, MH')
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>Dec 2020 - Jan 2020</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>Dec 2020 - Jan 2020</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
 
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>Internship in Django</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Internship in Django (Mar 2020 - Apr 2020)</h5>",
             unsafe_allow_html=True)
     st.write('CodeBetter - Indore, MP')
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>Mar 2020 - Apr 2020</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>Mar 2020 - Apr 2020</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
 
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>Post Diploma (Tool & Die Mfg.)</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Post Diploma in Tool & Die Mfg. (2016 - 2017)</h5>",
             unsafe_allow_html=True)
     st.write('Indo-German Tool Room - Aurangabad, MH (AICTE Delhi)')
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>2016 - 2017</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>2016 - 2017</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
 
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>Advance Diploma (Tool & Die Making)</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Advance Diploma in Tool & Die Making 2010 - 2014 </h5>",
             unsafe_allow_html=True)
     st.write('Indo-German Tool Room - Indore, MP (AICTE Delhi & RGTU, Bhopal)')
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>2010 - 2014</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>2010 - 2014</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
@@ -126,17 +126,17 @@ st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Profe
 
 col_1, col_2 = st.columns(2)
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>VKAPS IT Solutions Pvt. Ltd INDORE, MP</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>VKAPS IT Solutions Pvt. Ltd INDORE, MP (Oct 2021 - Present)</h5>",
             unsafe_allow_html=True)
     st.write('Junior Software Engineer')
     
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>Oct 2021 - Present</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>Oct 2021 - Present</h5>",
+    #         unsafe_allow_html=True)
+    st.write('')
 
 
 st.write("Working as Python/Django developer.")
-
 st.write("Working on core python scripts for web scraping.")
 st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, selectfashion.uk, serco, Hikrupet etc.")
 st.write('Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web Framework.')
@@ -151,60 +151,38 @@ st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Addit
 
 col_1, col_2 = st.columns(2)
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>Pitti Engineering Ltd, Hyderabad, Telangana</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Pitti Engineering Ltd, Hyderabad, Telangana (Aug 2020 - Dec 2020)</h5>",
             unsafe_allow_html=True)
     st.write('Sr. Supervisor - Production')
     
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>Aug 2020 - Dec 2020</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>Aug 2020 - Dec 2020</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
 
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>PMT Machines Ltd. - Pune, MH</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>PMT Machines Ltd. - Pune, MH (Oct 2017 - Aug 2020)</h5>",
             unsafe_allow_html=True)
     st.write('Jr. Engineer - Production')
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>Oct 2017 - Aug 2020</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>Oct 2017 - Aug 2020</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
 
 with col_1:
-    st.write("<h5 style='text-align: left; color: black;'>Engeetech Engineering - Indore, MP</h5>",
+    st.write("<h5 style='text-align: left; color: black;'>Engeetech Engineering - Indore, MP (Jul 2014 - Sep 2016)</h5>",
             unsafe_allow_html=True)
     st.write('Jr. Engineer - Quality Control')
 with col_2:
-    st.write("<h5 style='text-align: left; color: black;'>Jul 2014 - Sep 2016</h5>",
-            unsafe_allow_html=True)
+    # st.write("<h5 style='text-align: left; color: black;'>Jul 2014 - Sep 2016</h5>",
+    #         unsafe_allow_html=True)
     st.write('')
     st.write('')
     st.write('')
-
-
-
-
-
-
-
-
-
-
-
-# if (selected == 'Photos'):
-#     from PIL import Image
-#     import os
-#     root = os.path.dirname(__file__)
-#     img1 = Image.open(root + "/media/images/1.jpg")
-
-#     col_1, col_2 = st.columns(2)
-#     with col_1:
-#         img11 = st.image(img1, use_column_width=True)
-#     with col_2:
-#         img22 = st.image(img2, use_column_width=True)
 
 
 hide_st_style = """

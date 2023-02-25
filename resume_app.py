@@ -110,7 +110,7 @@ st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, sele
 st.write('Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web Framework.')
 st.write("Developed the script for web scraping the 'consumeraffairs.com & teacherspayteachers.com' and fetched the desired details as per Client. And also created the web app for scrapping")
 st.write("Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI")
-st.write("    Developed the OpenAI project where user can generate the N number of Multiple Choice Questions by selection of the options provided in the menu. Also download the CSV file that contains the 02 columns 'Questions and Answers'")
+st.write("Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.")
 
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Additional Experience: </h4>",

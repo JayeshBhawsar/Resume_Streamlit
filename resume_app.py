@@ -40,35 +40,19 @@ st.markdown("""<h6 style='color: black;'>Python programming professional certifi
 st.markdown(""" 
             - Well versed in NumPy, Pandas, Well versed in Object Oriented Programming (OOPs).
             - Able to develop and designed API's with FastAPI Framework.
+            - Basics of HTML5, CSS3 and Bootstrap.
             - Computer Knowledge: Windows 7-8, Windows 10, Linux(Ubuntu), MS Office (Excel, Word, PowerPoint).
             - Web Scraping with BeautifulSoup and Selenium.
             - Machine Learning
             - Good communication skills and attention to details.
             
             """, unsafe_allow_html=True)
-
-st.markdown("Able to develop and designed API's with FastAPI Framework.")
-
-st.markdown("Basics of HTML5, CSS3 and Bootstrap.")
-
-st.markdown("Computer Knowledge: Windows 7-8, Windows 10, Linux(Ubuntu), MS Office (Excel, Word, PowerPoint).")
-
-st.markdown("Web Scraping with BeautifulSoup and Selenium.")
-
-st.markdown("Machine Learning")
-
-st.markdown("Good communication skills and attention to details.")
 st.write('')
 st.write('')
-
-
 
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Professional Experience: </h4>",
             unsafe_allow_html=True)
-
-
-
 st.write("<h5 style='text-align: left; color: black;'>VKAPS IT Solutions Pvt. Ltd INDORE, MP (Oct 2021 - Present)</h5>",
             unsafe_allow_html=True)
 st.write('Junior Software Engineer')
@@ -86,33 +70,16 @@ st.write("Developed the ML projects for predictions such as 'Diabetes, Heart-Dis
 st.write("Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Education & Certification: </h4>",
             unsafe_allow_html=True)
-
 st.write('')
-
 st.write("<h5 style='text-align: left; color: black;'>B.Tech in Mechanical Engineering (2019 - 2022)</h5>",
             unsafe_allow_html=True)
 st.write('Synergy Institute of Technology, Dewas, MP')
-    
-st.write('')
-st.write('')
-st.write('')
 
+st.write('')
+st.write('')
+st.write('')
 
 st.write("<h5 style='text-align: left; color: black;'>Python Certification (Dec 2020 - Jan 2020) </h5>",
             unsafe_allow_html=True)
@@ -156,10 +123,6 @@ st.write('')
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Additional Experience: </h4>",
             unsafe_allow_html=True)
-
-
-
-
 
 st.write("<h5 style='text-align: left; color: black;'>Pitti Engineering Ltd, Hyderabad, Telangana (Aug 2020 - Dec 2020)</h5>",
             unsafe_allow_html=True)

@@ -37,7 +37,10 @@ st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Profe
 #             """, unsafe_allow_html=True)
 st.markdown("""<h6 style='color: black;'>Python programming professional certified in Python and Django from Ethans Tech. (Pune), currently working as Junior Software Engineer in VKAPS IT Solutions Pvt. Ltd INDORE, MP.</h6>""", unsafe_allow_html=True)
 
-st.markdown("Well versed in NumPy, Pandas, Well versed in Object Oriented Programming (OOPs).")
+st.markdown(""" 
+            - Well versed in NumPy, Pandas, Well versed in Object Oriented Programming (OOPs).
+            
+            """, unsafe_allow_html=True)
 
 st.markdown("Able to develop and designed API's with FastAPI Framework.")
 

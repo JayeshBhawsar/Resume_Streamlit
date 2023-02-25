@@ -1,5 +1,13 @@
 import streamlit as st
 import streamlit.components.v1 as components
+from streamlit_option_menu import option_menu
+
+with st.sidebar:
+    selected = option_menu("Main Menu", 
+                           ["LinkedIn", 'Settings'],
+                           icons=['house', 'gear'], 
+                           menu_icon="cast", 
+                           default_index=0)
 
 st.markdown("<h3 style='text-align: center; color: white; font-size: 40px; font-weight: 900; background-color: black;'>JAYESH BHAWSAR</h3>", unsafe_allow_html=True)
 st.write('')

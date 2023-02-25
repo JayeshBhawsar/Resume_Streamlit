@@ -49,7 +49,6 @@ st.write('Junior Software Engineer')
 st.write('')
 
 st.markdown("""
-            ## Platforms and Libraries
             - Working as Python/Django developer.
             - Working on core python scripts for web scraping.
             - Web Scraping with BeautifulSoup and Selenium of following websites:
@@ -58,15 +57,7 @@ st.markdown("""
             - Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI.
             - Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.
             """, unsafe_allow_html=True)
-
-# st.write("Working as Python/Django developer.")
-# st.write("Working on core python scripts for web scraping.")
-# st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, selectfashion.uk, serco, Hikrupet etc.")
-# st.write('Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web Framework.')
-# st.write("Developed the script for web scraping the 'consumeraffairs.com & teacherspayteachers.com' and fetched the desired details as per Client. And also created the web app for scrapping")
-# st.write("Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI")
-# st.write("Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.")
-
+st.write('')
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Education & Certification: </h4>",
             unsafe_allow_html=True)

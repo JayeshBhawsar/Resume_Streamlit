@@ -1,15 +1,13 @@
 import streamlit as st
 import streamlit.components.v1 as components
-from streamlit_option_menu import option_menu
 
-with st.sidebar:
-    selected = option_menu("Main Menu", 
-                           
-                           ["LinkedIn", 'Settings'],
- 
-                           default_index=0)
-    if (selected == "LinkedIn"):
-        components.html('''<div class="feed-identity-module artdeco-card overflow-hidden mb2">
+st.markdown("<h3 style='text-align: center; color: white; font-size: 40px; font-weight: 900; background-color: black;'>JAYESH BHAWSAR</h3>", unsafe_allow_html=True)
+st.write('')
+st.write('')
+st.write('')
+st.write('')
+
+components.iframe("""<div class="feed-identity-module artdeco-card overflow-hidden mb2">
 <!---->
   <div class="feed-identity-module__actor-meta break-words">
     <div class="feed-identity-module__member-bg-image
@@ -110,15 +108,7 @@ with st.sidebar:
         My items
       </span>
     </a>
-</div>''', height=300)
-
-st.markdown("<h3 style='text-align: center; color: white; font-size: 40px; font-weight: 900; background-color: black;'>JAYESH BHAWSAR</h3>", unsafe_allow_html=True)
-st.write('')
-st.write('')
-st.write('')
-st.write('')
-
-components.iframe("https://www.linkedin.com/in/jayesh-bhawsar-460b4a13a/")
+</div>""")
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Address: </h4>",
             unsafe_allow_html=True)

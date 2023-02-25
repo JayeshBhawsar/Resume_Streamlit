@@ -39,6 +39,11 @@ st.markdown("""<h6 style='color: black;'>Python programming professional certifi
 
 st.markdown(""" 
             - Well versed in NumPy, Pandas, Well versed in Object Oriented Programming (OOPs).
+            - Able to develop and designed API's with FastAPI Framework.
+            - Computer Knowledge: Windows 7-8, Windows 10, Linux(Ubuntu), MS Office (Excel, Word, PowerPoint).
+            - Web Scraping with BeautifulSoup and Selenium.
+            - Machine Learning
+            - Good communication skills and attention to details.
             
             """, unsafe_allow_html=True)
 

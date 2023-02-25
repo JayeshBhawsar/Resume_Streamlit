@@ -108,7 +108,7 @@ components.iframe("""<div class="feed-identity-module artdeco-card overflow-hidd
         My items
       </span>
     </a>
-</div>""")
+</div>""", height=300)
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Address: </h4>",
             unsafe_allow_html=True)

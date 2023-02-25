@@ -38,7 +38,7 @@ st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Profe
 st.markdown("""<h6 style='color: black;'>Python programming professional certified in Python and Django from Ethans Tech. (Pune), currently working as Junior Software Engineer in VKAPS IT Solutions Pvt. Ltd INDORE, MP.</h6>""", unsafe_allow_html=True)
 
 st.markdown(""" 
-            - Well versed in NumPy, Pandas, Well versed in Object Oriented Programming (OOPs).
+            - Well versed in Pandas, Numpy, Skicit Learn, Scipy, Tensorflow, Keras, Streamlit, Dash, Plotly, Matplotlib, Seaborn & Object Oriented Programming (OOPs).
             - Able to develop and designed API's with FastAPI Framework.
             - Basics of HTML5, CSS3 and Bootstrap.
             - Computer Knowledge: Windows 7-8, Windows 10, Linux(Ubuntu), MS Office (Excel, Word, PowerPoint).
@@ -60,7 +60,11 @@ st.write('Junior Software Engineer')
 
 st.write('')
 
-
+st.markdown("""
+            ## Platforms and Libraries
+            - Working as Python/Django developer.
+            - Working on core python scripts for web scraping.
+            """, unsafe_allow_html=True)
 st.write("Working as Python/Django developer.")
 st.write("Working on core python scripts for web scraping.")
 st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, selectfashion.uk, serco, Hikrupet etc.")

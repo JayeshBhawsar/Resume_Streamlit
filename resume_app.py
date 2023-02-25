@@ -14,11 +14,15 @@ st.write('')
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Email: </h4>",
             unsafe_allow_html=True)
 st.write("mady000745@gmail.com")
-st.write("https://www.linkedin.com/in/jayesh-bhawsar-460b4a13a/")
+
 st.write('')
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Contact: </h4>",
             unsafe_allow_html=True)
 st.write("+917057053741")
+st.markdown("""
+            [**LinkedIn**](https://www.linkedin.com/in/jayesh-bhawsar-460b4a13a/)
+            """, unsafe_allow_html=True)
+
 st.write('')
 st.write('')
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Professional Summary:</h4>",

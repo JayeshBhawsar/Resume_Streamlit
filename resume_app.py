@@ -53,9 +53,9 @@ st.markdown("""
             - Working on core python scripts for web scraping.
             - Web Scraping with BeautifulSoup and Selenium of following websites:
               Amazon, Flipkart, selectfashion.uk, serco, Hikrupet, consumeraffairs.com & teacherspayteachers.com etc, and fetched the desired details as per Client. And also created the web app for scrapping etc.
-            - Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web FrameworkDeveloped the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI.
+            - Developed a image processing project using OpenCV-Python.
             - Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI.
-            - Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.
+            - Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers using GPT-3 Model by selecting the options provided in the menu. Also, can download it as a CSV file.
             """, unsafe_allow_html=True)
 st.write('')
 

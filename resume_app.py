@@ -108,8 +108,9 @@ st.write("Working as Python/Django developer.")
 st.write("Working on core python scripts for web scraping.")
 st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, selectfashion.uk, serco, Hikrupet etc.")
 st.write('Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web Framework.')
-st.write("Developed the script for web scraping the 'consumeraffairs.com & teacherspayteachers.com' and fetched the desired details as per Client.")
+st.write("Developed the script for web scraping the 'consumeraffairs.com & teacherspayteachers.com' and fetched the desired details as per Client. And also created the web app for scrapping")
 st.write("Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI")
+st.write("Developed the OpenAI project where user can generate the Multiple Choice Questions |||| selects the option from menu and ")
 
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Additional Experience: </h4>",

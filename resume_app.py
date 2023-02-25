@@ -52,6 +52,46 @@ st.markdown("Machine Learning")
 st.markdown("Good communication skills and attention to details.")
 st.write('')
 st.write('')
+
+
+
+
+st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Professional Experience: </h4>",
+            unsafe_allow_html=True)
+
+
+
+st.write("<h5 style='text-align: left; color: black;'>VKAPS IT Solutions Pvt. Ltd INDORE, MP (Oct 2021 - Present)</h5>",
+            unsafe_allow_html=True)
+st.write('Junior Software Engineer')
+    
+
+st.write('')
+
+
+st.write("Working as Python/Django developer.")
+st.write("Working on core python scripts for web scraping.")
+st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, selectfashion.uk, serco, Hikrupet etc.")
+st.write('Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web Framework.')
+st.write("Developed the script for web scraping the 'consumeraffairs.com & teacherspayteachers.com' and fetched the desired details as per Client. And also created the web app for scrapping")
+st.write("Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI")
+st.write("Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Education & Certification: </h4>",
             unsafe_allow_html=True)
 
@@ -104,27 +144,6 @@ st.write('')
 
 st.write('')
 st.write('')
-
-st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Professional Experience: </h4>",
-            unsafe_allow_html=True)
-
-
-
-st.write("<h5 style='text-align: left; color: black;'>VKAPS IT Solutions Pvt. Ltd INDORE, MP (Oct 2021 - Present)</h5>",
-            unsafe_allow_html=True)
-st.write('Junior Software Engineer')
-    
-
-st.write('')
-
-
-st.write("Working as Python/Django developer.")
-st.write("Working on core python scripts for web scraping.")
-st.write("Web Scraping with BeautifulSoup and Selenium of Amazon, Flipkart, selectfashion.uk, serco, Hikrupet etc.")
-st.write('Developed a project of Machine Learning task such as PDF/Image processing in Streamlit Web Framework.')
-st.write("Developed the script for web scraping the 'consumeraffairs.com & teacherspayteachers.com' and fetched the desired details as per Client. And also created the web app for scrapping")
-st.write("Developed the ML projects for predictions such as 'Diabetes, Heart-Disease, Parkinsons & Heart-Stroke' as Internal Projects in Streamlit Web Framework and FastAPI")
-st.write("Developed the OpenAI project where users can generate the N number of Multiple Choice Questions and their answers by selecting the options provided in the menu. Also, can download it as a CSV file.")
 
 
 st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Additional Experience: </h4>",

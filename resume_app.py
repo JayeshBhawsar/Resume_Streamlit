@@ -44,10 +44,6 @@ st.markdown("<h4 style='text-align: left; font-weight: 900; color: black;'>Profe
 st.write("<h5 style='text-align: left; color: black;'>VKAPS IT Solutions Pvt. Ltd INDORE, MP (Oct 2021 - Present)</h5>",
             unsafe_allow_html=True)
 st.write('Junior Software Engineer')
-    
-
-st.write('')
-
 st.markdown("""
             - Working as Python/Django developer.
             - Working on core python scripts for web scraping.
